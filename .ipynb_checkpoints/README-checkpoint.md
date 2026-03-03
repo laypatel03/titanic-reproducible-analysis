@@ -35,7 +35,7 @@ titanic-reproducible-analysis/
 ## Setup Instructions
 
 1. Clone repository:
-   git clone https://github.com/yourusername/titanic-reproducible-analysis.git
+   git clone https://github.com/laypatel03/titanic-reproducible-analysis.git
 
 2. Navigate into project:
    cd titanic-reproducible-analysis
